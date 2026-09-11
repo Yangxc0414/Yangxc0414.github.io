@@ -19,7 +19,7 @@ redirect_from:
 
 I am an incoming Ph.D. student in the Software Institute at Nanjing University, where I will work on Intelligent Software Engineering at the DevOps+ Research Laboratory under the supervision of Prof. He Zhang and Prof. Bohan Liu. Prior to that, I am expected to receive my B.Eng. degree in Software Engineering from the College of Software at Jilin University.
 
-My research interest lies in AI for Software Engineering (AI4SE).
+My research interests lie at the intersection of Software Engineering and Artificial Intelligence, with a particular focus on AI agents, agent memory, and agentic software engineering.
 
 
 # 🔥 News
