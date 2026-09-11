@@ -3,6 +3,7 @@ Nav 项的渲染规则：
   - 来自 site.data.navigation.main 的固定项：无条件渲染
   - Invited Talks / Internships：按对应 section-*.html 是否有内容自动显隐，
     渲染位置固定在 "Educations" 项之后
+  - 注意：Jekyll 的 Liquid 不支持 and/or 逻辑运算符，统一使用嵌套 if 判断
 {% endcomment %}
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -11,26 +12,17 @@ Nav 项的渲染规则：
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
-          {% assign _show_invited_talks = false %}
-          {% assign _show_internships = false %}
-          {% assign _pending_invited_talks = null %}
-          {% assign _pending_internships = null %}
           {% for link in site.data.navigation.main %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-            {% if link.title == "Educations" and not _show_invited_talks %}
+            {% if link.title == "Educations" %}
               {% capture _check_invited %}{% include section-invited-talks.html %}{% endcapture %}
               {% assign _check_invited_stripped = _check_invited | strip %}
               {% if _check_invited_stripped.size > 0 %}
-                {% assign _show_invited_talks = true %}
-                {% assign _pending_invited_talks = 'Invited Talks' %}
                 <li class="masthead__menu-item"><a href="{{ domain }}/#-invited-talks">Invited Talks</a></li>
               {% endif %}
-            {% endif %}
-            {% if link.title == "Educations" and not _show_internships %}
               {% capture _check_intern %}{% include section-internships.html %}{% endcapture %}
               {% assign _check_intern_stripped = _check_intern | strip %}
               {% if _check_intern_stripped.size > 0 %}
-                {% assign _show_internships = true %}
                 <li class="masthead__menu-item"><a href="{{ domain }}/#-internships">Internships</a></li>
               {% endif %}
             {% endif %}
