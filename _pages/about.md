@@ -46,8 +46,9 @@ I'm still working on something that I can present, and for now, I may just share
 - *2027.08 - present*, Ph.D. in Software Engineering, Software Institute, Nanjing University 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+<p class="coming-soon">🚧 Invited talks are coming soon. Please check back later.</p>
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+<p class="coming-soon">� Internship experiences are coming soon. Please check back later.</p>
