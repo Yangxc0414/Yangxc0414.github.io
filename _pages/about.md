@@ -21,6 +21,10 @@ I am an incoming Ph.D. student in the Software Institute at Nanjing University, 
 
 My research interests lie at the intersection of Software Engineering and Artificial Intelligence, i.e., AI for Software Engineering (AI4SE), with a particular focus on AI agents, agent memory, and agentic software engineering.
 
+I'm still working on something that I can present, and for now, I may just share a quote that I really like.
+
+> Where there is a will, there is a way.
+
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
