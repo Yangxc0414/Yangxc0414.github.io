@@ -30,7 +30,7 @@ Any discussion, collaboration, and mentoring (both giving and receiving) are ver
 
 <p class="coming-soon">🚧 Publications are coming soon. Please check back later.</p>
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2026*: Honorable Mention (H Prize), Mathematical Contest in Modeling (MCM/ICM)
 - *2025*: Third-Class Scholarship, Jilin University
 - *2024*: First Prize in Jilin Province of Contemporary Undergraduate Mathematical Contest
