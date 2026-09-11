@@ -8,8 +8,8 @@
 # Site Settings
 title                    : "Xiangcheng Yang"
 description              : "Feiyimin Building, 22 Hankou Rd."
-repository               : "RayeRen/acad-homepage.github.io"
-google_scholar_stats_use_cdn : true
+repository               : "Yangxc0414/Yangxc0414.github.io"
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/

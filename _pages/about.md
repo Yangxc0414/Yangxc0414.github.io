@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 I am an incoming Ph.D. student in the Software Institute at Nanjing University, where I will work on Intelligent Software Engineering at the DevOps+ Research Laboratory under the supervision of [Prof. He Zhang](https://softeng.nju.edu.cn/faculty/HeZhang/index.html) and [Prof. Bohan Liu](https://software.nju.edu.cn/bohanliu/index.html). Prior to that, I am expected to receive my B.Eng. degree in Software Engineering from the College of Software at Jilin University.
