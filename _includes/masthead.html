@@ -7,6 +7,16 @@
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
           {% for link in site.data.navigation.main %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            {% if link.url == "/#-educations" %}
+              {% capture _it_talks_html %}{% include section-invited-talks.html %}{% endcapture %}
+              {% if _it_talks_html | strip | strip_html != empty %}
+                {% include nav-section.html url="/#-invited-talks" title="Invited Talks" %}
+              {% endif %}
+              {% capture _it_intern_html %}{% include section-internships.html %}{% endcapture %}
+              {% if _it_intern_html | strip | strip_html != empty %}
+                {% include nav-section.html url="/#-internships" title="Internships" %}
+              {% endif %}
+            {% endif %}
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>

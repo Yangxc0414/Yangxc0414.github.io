@@ -1,0 +1,16 @@
+{% comment %}
+可复用的"有内容才显示"导航项。
+用法（调用方）：
+  {% capture _sec %}{% include section-invited-talks.html %}{% endcapture %}
+  {% if _sec | strip | strip_html != empty %}
+    {% include nav-section.html url="/#-invited-talks" title="Invited Talks" %}
+  {% endif %}
+
+参数：
+  url   - 锚点链接
+  title - 导航显示文字
+仅当调用方判断 section 内容非空时才会输出 <li>。
+{% endcomment %}
+{% if include.url and include.title %}
+<li class="masthead__menu-item"><a href="{{ domain }}{{ include.url }}">{{ include.title }}</a></li>
+{% endif %}

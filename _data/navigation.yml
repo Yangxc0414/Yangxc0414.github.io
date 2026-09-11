@@ -15,9 +15,6 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-# === 有内容后再启用下面的栏目导航（删除上方注释行即可恢复）===
-# - title: "Invited Talks"
-#   url: "/#-invited-talks"
-#
-# - title: "Internships"
-#   url: "/#-internships"
+# 说明：Invited Talks / Internships 两个导航项无需在此维护。
+# 它们由 _includes/masthead.html 根据 section-invited-talks.html /
+# section-internships.html 是否有内容自动显隐，见该文件中的条件渲染逻辑。
