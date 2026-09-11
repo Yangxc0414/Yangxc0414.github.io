@@ -83,6 +83,16 @@
     }
   }
 
+  .coming-soon {
+    margin: 1.5em 0;
+    padding: 1.2em 1em;
+    text-align: center;
+    font-style: italic;
+    color: $gray;
+    background-color: $lighter-gray;
+    border-radius: 4px;
+  }
+
   a {
     text-decoration: underline;
 

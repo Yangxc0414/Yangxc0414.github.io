@@ -32,7 +32,7 @@ I'm still working on something that I can present, and for now, I may just share
 
 # 📝 Publications 
 
-*Coming soon.*
+<p class="coming-soon">🚧 Publications are coming soon. Please check back later.</p>
 
 # 🎖 Honors and Awards
 - *2026* Honorable Mention (H Prize), Mathematical Contest in Modeling (MCM/ICM)
