@@ -36,8 +36,8 @@ Any discussion, collaboration, and mentoring (both giving and receiving) are ver
 - *2024* National Inspirational Scholarship 
 
 # 📖 Educations
-- *2027.08 - present*, Ph.D. in Software Engineering, Software Institute, Nanjing University 
-- *2023.08 - 2027.06*, B.Eng. in Software Engineering, College of Software, Jilin University
+- *2027 - present*, Ph.D. in Software Engineering, Software Institute, Nanjing University 
+- *2023 - 2027*, B.Eng. in Software Engineering, College of Software, Jilin University
 
 # 💬 Invited Talks
 
