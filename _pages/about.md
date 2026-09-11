@@ -43,7 +43,7 @@ I'm still working on something that I can present, and for now, I may just share
 
 # 📖 Educations
 - *2023.08 - 2027.06*, B.Eng. in Software Engineering, College of Software, Jilin University
-- *2027.06 - present*, Ph.D. in Software Engineering, Software Institute, Nanjing University 
+- *2027.08 - present*, Ph.D. in Software Engineering, Software Institute, Nanjing University 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
