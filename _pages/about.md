@@ -35,8 +35,11 @@ I'm still working on something that I can present, and for now, I may just share
 *Coming soon.*
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026* Honorable Mention (H Prize), Mathematical Contest in Modeling (MCM/ICM)
+- *2025* Third-Class Scholarship, Jilin University
+- *2024* First Prize in Jilin Province of Contemporary Undergraduate Mathematical Contest
+- *2024* College Excellent Student Award, Jilin University
+- *2024* National Inspirational Scholarship 
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
