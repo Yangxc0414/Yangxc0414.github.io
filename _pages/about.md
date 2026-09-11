@@ -22,8 +22,8 @@ Any discussion, collaboration, and mentoring (both giving and receiving) are ver
 
 
 # 🔥 News
-- *2026.09*: &nbsp;🎉🎉 Rated as an Outstanding Candidate in the pre-admission review of the Software Institute, Nanjing University. 
-- *2026.08*: &nbsp;🎉🎉 Rated as an Outstanding Candidate in the pre-admission review of the Science Island Branch, Graduate School of USTC. 
+- *2026.09*: &nbsp;🎉🎉 Rated as an Outstanding Student in the pre-admission review of the Software Institute, Nanjing University. 
+- *2026.08*: &nbsp;🎉🎉 Rated as an Outstanding Student in the pre-admission review of the Science Island Branch, Graduate School of USTC. 
 - *2026.07*: &nbsp;🎉🎉 Rated as an Outstanding Student in the Summer Camp of the College of Computer Science and Technology, Jilin University. 
 
 # 📝 Publications 
