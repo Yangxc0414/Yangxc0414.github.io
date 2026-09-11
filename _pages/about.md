@@ -17,13 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-## About Me
+I am an incoming Ph.D. student at the DevOps+ Research Laboratory, Nanjing University, where I will work on Intelligent Software Engineering under the supervision of Prof. He Zhang and Prof. Bohan Liu. Prior to that, I am expected to receive my B.Eng. degree in XXX from XXX at Jilin University.
 
-I am an incoming Ph.D. student at the Software Institute, Nanjing University, supervised by Prof. He Zhang and Prof. Bohan Liu. Prior to that, I expect to receive my B.Eng. degree in XXX from XXX at Jilin University.
-
-My research interest lies in AI for Software Engineering (AI4SE). I am interested in building reliable and capable AI agents that can reason, use tools, learn from experience, and autonomously complete long-horizon tasks. My current interests include explicit and parameterized memory, context management, agent runtime systems, verification, observability, and evaluation.
-
-More broadly, I am interested in how software engineering principles can make AI systems more reliable, maintainable, and capable of continuous improvement.
+My research interest lies in AI for Software Engineering (AI4SE).
 
 
 # 🔥 News
