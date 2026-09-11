@@ -3,6 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
+show_empty_sections: false
 redirect_from: 
   - /about/
   - /about.html
@@ -38,13 +39,7 @@ Any discussion, collaboration, and mentoring (both giving and receiving) are ver
 - *2024*, National Inspirational Scholarship 
 
 # 📖 Educations
-- *2027 - present*, Ph.D. in Software Engineering, Software Institute, Nanjing University 
-- *2023 - 2027*, B.Eng. in Software Engineering, College of Software, Jilin University
+- *2027 - present*: Ph.D. in Software Engineering, Software Institute, Nanjing University
+- *2023 - 2027*: B.Eng. in Software Engineering, College of Software, Jilin University
 
-# 💬 Invited Talks
-
-<p class="coming-soon">🚧 Invited talks are coming soon. Please check back later.</p>
-
-# 💻 Internships
-
-<p class="coming-soon">🚧 Internship experiences are coming soon. Please check back later.</p>
+{% include coming-soon.html %}
