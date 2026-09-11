@@ -31,11 +31,11 @@ Any discussion, collaboration, and mentoring (both giving and receiving) are ver
 <p class="coming-soon">🚧 Publications are coming soon. Please check back later.</p>
 
 # 🎖 Honors and Awards
-- *[2026]* Honorable Mention (H Prize), Mathematical Contest in Modeling (MCM/ICM)
-- *[2025]* Third-Class Scholarship, Jilin University
-- *[2024]* First Prize in Jilin Province of Contemporary Undergraduate Mathematical Contest
-- *[2024]* College Excellent Student Award, Jilin University
-- *[2024]* National Inspirational Scholarship 
+- *[2026]*&nbsp;Honorable Mention (H Prize), Mathematical Contest in Modeling (MCM/ICM)
+- *[2025]*&nbsp;Third-Class Scholarship, Jilin University
+- *[2024]*&nbsp;First Prize in Jilin Province of Contemporary Undergraduate Mathematical Contest
+- *[2024]*&nbsp;College Excellent Student Award, Jilin University
+- *[2024]*&nbsp;National Inspirational Scholarship 
 
 # 📖 Educations
 - *2027 - present*, Ph.D. in Software Engineering, Software Institute, Nanjing University 
