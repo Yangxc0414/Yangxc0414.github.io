@@ -22,8 +22,7 @@ Any discussion, collaboration, and mentoring (both giving and receiving) are ver
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.09*: &nbsp;🎉🎉 Rated as an Outstanding Candidate in the pre-admission review of the Software Institute, Nanjing University. 
 
 # 📝 Publications 
 
