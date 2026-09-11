@@ -1,2 +1,17 @@
+{% comment %}
+Invited Talks / Internships —— 自动按内容显隐
+================================================================
+这两个栏目是"空即隐藏"的：只要对应 section-*.html 文件没有有效 HTML 内容，
+它们就不会出现在页面上。
+
+【添加内容的步骤】
+1. 往下面对应的 section-*.html 文件里写 HTML 内容（含标题，如 <h2>...</h2>）
+   - 受邀报告    → section-invited-talks.html
+   - 实习经历    → section-internships.html
+   注意：include 是原始 HTML，不要写 ## / - 这种 Markdown 语法
+2. 打开 _data/navigation.yml，把注释掉的对应导航项取消注释（文件底部有示例）
+================================================================
+{% endcomment %}
+
 {% include section-invited-talks.html %}
 {% include section-internships.html %}
