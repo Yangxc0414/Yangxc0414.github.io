@@ -26,16 +26,16 @@ Any discussion, collaboration, and mentoring (both giving and receiving) are ver
 - *2026.08*: &nbsp;🎉🎉 Rated as an Outstanding Student in the pre-admission review of the Science Island Branch, University of Science and Technology of China. 
 - *2026.07*: &nbsp;🎉🎉 Rated as an Outstanding Student in the Summer Camp of the College of Computer Science and Technology, Jilin University. 
 
-# 📝 Publications 
+# 📝 Publications
 
 <p class="coming-soon">🚧 Publications are coming soon. Please check back later.</p>
 
 # 🎖 Honors and Awards
-- *2026*, Honorable Mention (H Prize), Mathematical Contest in Modeling (MCM/ICM)
-- *2025*, Third-Class Scholarship, Jilin University
-- *2024*, First Prize in Jilin Province of Contemporary Undergraduate Mathematical Contest
-- *2024*, College Excellent Student Award, Jilin University
-- *2024*, National Inspirational Scholarship 
+- *2026*: Honorable Mention (H Prize), Mathematical Contest in Modeling (MCM/ICM)
+- *2025*: Third-Class Scholarship, Jilin University
+- *2024*: First Prize in Jilin Province of Contemporary Undergraduate Mathematical Contest
+- *2024*: College Excellent Student Award, Jilin University
+- *2024*: National Inspirational Scholarship 
 
 # 📖 Educations
 - *2027 - present*: Ph.D. in Software Engineering, Software Institute, Nanjing University
