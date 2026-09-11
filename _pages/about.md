@@ -45,4 +45,4 @@ Any discussion, collaboration, and mentoring (both giving and receiving) are ver
 
 # 💻 Internships
 
-<p class="coming-soon">� Internship experiences are coming soon. Please check back later.</p>
+<p class="coming-soon">🚧 Internship experiences are coming soon. Please check back later.</p>
