@@ -25,6 +25,8 @@ I'm still working on something that I can present, and for now, I may just share
 
 > Where there is a will, there is a way.
 
+Any discussion, collaboration, and mentoring (both giving and receiving) are very welcome, and I can be reached at [yangxc0414@gmail.com](mailto:yangxc0414@gmail.com).
+
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
