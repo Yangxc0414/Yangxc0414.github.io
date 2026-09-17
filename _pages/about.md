@@ -10,15 +10,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming Ph.D. student at the State Key Laboratory for Novel Software Technology, Nanjing University, where I will be working on Intelligent Software Engineering under the supervision of [Prof. He Zhang](https://softeng.nju.edu.cn/faculty/HeZhang/index.html) and [Prof. Bohan Liu](https://software.nju.edu.cn/bohanliu/index.html). Prior to that, I am expected to receive my B.Eng. degree in Software Engineering from the College of Software at Jilin University.
+I am an incoming Ph.D. student at the State Key Laboratory for Novel Software Technology, Nanjing University, where I will be working on Intelligent Software Engineering under the supervision of [Prof. Bohan Liu](https://software.nju.edu.cn/bohanliu/index.html) and [Prof. He Zhang](https://softeng.nju.edu.cn/faculty/HeZhang/index.html). Prior to that, I am expected to receive my B.Eng. degree in Software Engineering from the College of Software at Jilin University.
 
 My research interests lie at the intersection of Software Engineering and Artificial Intelligence, i.e., AI for Software Engineering (AI4SE), with a particular focus on AI agents, agent memory, and agentic software engineering.
 
 I'm still working on something that I can present, and for now, I may just share a quote that I really like.
 
 > *If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them.*
->
-> — Henry David Thoreau, *Walden*
 
 Any discussion, collaboration, and mentoring (both giving and receiving) are very welcome, and I can be reached at [yangxc0414@gmail.com](mailto:yangxc0414@gmail.com).
 
