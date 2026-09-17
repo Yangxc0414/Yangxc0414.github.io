@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming Ph.D. student in the Software Institute at Nanjing University, where I will work on Intelligent Software Engineering at the State Key Laboratory of New Technology of Computer Software under the supervision of [Prof. He Zhang](https://softeng.nju.edu.cn/faculty/HeZhang/index.html) and [Prof. Bohan Liu](https://software.nju.edu.cn/bohanliu/index.html). Prior to that, I am expected to receive my B.Eng. degree in Software Engineering from the College of Software at Jilin University.
+I am an incoming Ph.D. student at the State Key Laboratory for Novel Software Technology, Nanjing University, where I will be working on Intelligent Software Engineering under the supervision of [Prof. He Zhang](https://softeng.nju.edu.cn/faculty/HeZhang/index.html) and [Prof. Bohan Liu](https://software.nju.edu.cn/bohanliu/index.html). Prior to that, I am expected to receive my B.Eng. degree in Software Engineering from the College of Software at Jilin University.
 
 My research interests lie at the intersection of Software Engineering and Artificial Intelligence, i.e., AI for Software Engineering (AI4SE), with a particular focus on AI agents, agent memory, and agentic software engineering.
 
