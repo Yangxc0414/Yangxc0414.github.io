@@ -17,6 +17,8 @@ My research interests lie at the intersection of Software Engineering and Artifi
 I'm still working on something that I can present, and for now, I may just share a quote that I really like.
 
 > *If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them.*
+>
+> — Henry David Thoreau, *Walden*
 
 Any discussion, collaboration, and mentoring (both giving and receiving) are very welcome, and I can be reached at [yangxc0414@gmail.com](mailto:yangxc0414@gmail.com).
 
